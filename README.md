@@ -6,3 +6,5 @@ Built effective bionomial logistic regression
 Built and evaluated a decision tree model with tuned hyperparameters.
 ## Random Forest Model
 Trained, tuned, and evaluated a random forest model
+## XGBoost Model
+Constructed XGBoost classification model.
