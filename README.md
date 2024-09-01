@@ -4,3 +4,5 @@ The airline is interested in predicting whether a future customer would be satis
 Built effective bionomial logistic regression
 ## Tree-based Model
 Built and evaluated a decision tree model with tuned hyperparameters.
+## Random Forest Model
+Trained, tuned, and evaluated a random forest model
